@@ -149,7 +149,9 @@ char const *cmds[] = {
     "ATCH",
     "ATRO",
     "ATRR",
-    "ATA1"
+    "ATA1",
+    "ATCA",
+    "ATBD"
 };
 
 void do_dump() {
