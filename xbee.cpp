@@ -9,7 +9,7 @@
 
 
 
-char const *baud = "9600";
+char const *baud = "38400";
 char const *port = "/dev/ttyUSB0";
 char const *command = NULL;
 char const *filename = "-";
